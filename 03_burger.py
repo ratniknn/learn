@@ -15,3 +15,8 @@
 # Создать рецепт своего бургера, по вашему вкусу.
 # Если не хватает инградиентов - создать соответствующие функции в модуле my_burger
 
+import burger
+
+str1 = burger.bun(), burger.tomato(), burger.cutlet(), burger.cheese(), burger.cutlet(), burger.cheese(), \
+    burger.cucumber(), burger.tomato(), burger.bun()
+print(str1)

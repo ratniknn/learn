@@ -17,24 +17,36 @@
 
 
 def bun():
+    bun1 = 'Булка'
     print('Добавляем булку')
+    return bun1
 
 
 def cutlet():
+    cutlet1 = 'котлета'
     print('Добавляем котлету')
+    return cutlet1
 
 
 def cucumber():
+    cucumber1 = 'огурчик'
     print('Добавляем огурец')
+    return cucumber1
 
 
 def tomato():
-    print('Добавляем помидорчик')
+    tomato1 = 'кетчуп'
+    print('Добавляем кутчуп')
+    return tomato1
 
 
 def mayonnaise():
+    mayonnaise1 = 'майонез'
     print('Добавляем майонез')
+    return mayonnaise1
 
 
 def cheese():
+    cheese1 = 'сыр'
     print('Добавляем сыр')
+    return cheese1
